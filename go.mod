@@ -12,7 +12,7 @@ require (
 	github.com/rs/zerolog v1.35.0
 	github.com/stretchr/testify v1.11.1
 	go.mau.fi/util v0.9.9-0.20260424160448-fd0d9737ad38
-	golang.org/x/crypto v0.51.0
+	golang.org/x/crypto v0.52.0
 	golang.org/x/exp v0.0.0-20260410095643-746e56fc9e2f
 	google.golang.org/protobuf v1.36.11
 	gopkg.in/yaml.v3 v3.0.1
